@@ -8,4 +8,5 @@ Send me an e-mail: fernando0henrique@hotmail.com
 Let's Rock!
 
 Fernando Bastos
-Beginner Developer / Front-End & Back-End
+
+Front-End & Back-End / Beginner Developer
